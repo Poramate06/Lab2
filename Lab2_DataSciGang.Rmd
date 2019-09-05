@@ -1,0 +1,12 @@
+---
+title: "Lab2_DataSciGang"
+author: "Poramate"
+date: "9/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# 
+
